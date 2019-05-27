@@ -1,5 +1,5 @@
 {
-    "name": "cordova-plugin-enable-multidex",
+    "name": "cordova-plugin-enable-multidex-ka",
     "version": "0.2.0",
     "description": "Enable multidex for Cordova Android apps with over 64K methods",
     "scripts": {
